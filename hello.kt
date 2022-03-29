@@ -6,6 +6,5 @@ fun main() {
     
     for(idx in items.indices) {
         println("index is $idx, value is ${items[idx]}")
-    }
-
+    }123
 }
